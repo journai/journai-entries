@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "pm2-runtime ./bin/www --name='entries' --watch -o ./logs/entries-out.log -e ./logs/entries-err.log"
+    "start": "pm2-runtime ./bin/www --name='entries' --watch --output ./logs/entries-out.log --error ./logs/entries-err.log"
   },
   "dependencies": {
     "body-parser": "~1.18.2",
