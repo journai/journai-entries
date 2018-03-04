@@ -1,0 +1,17 @@
+[33m[nodemon] 1.17.1[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node ./bin/www`[39m
+[0mGET / [32m200 [0m2425.598 ms - 173[0m
+[0mGET /stylesheets/style.css [32m200 [0m101.027 ms - 111[0m
+[0mGET /favicon.ico [33m404 [0m100.591 ms - 1105[0m
+[0mGET / [32m200 [0m96.010 ms - 173[0m
+[0mGET /stylesheets/style.css [32m200 [0m54.505 ms - 111[0m
+[0mGET / [32m200 [0m58.634 ms - 173[0m
+[0mGET /stylesheets/style.css [32m200 [0m113.034 ms - 111[0m
+[0mGET / [32m200 [0m95.878 ms - 173[0m
+[0mGET /stylesheets/style.css [32m200 [0m31.412 ms - 111[0m
+[0mGET / [32m200 [0m61.642 ms - 173[0m
+[0mGET /stylesheets/style.css [32m200 [0m113.022 ms - 111[0m
+[0mGET / [32m200 [0m27.611 ms - 173[0m
+[0mGET /stylesheets/style.css [32m200 [0m90.184 ms - 111[0m
